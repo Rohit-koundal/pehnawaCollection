@@ -1,0 +1,9 @@
+<svg width="320" height="92" viewBox="0 0 320 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="92" rx="16" fill="#FFFFFF"/>
+  <path d="M34 26H74C88 26 96 34 96 47C96 60 88 68 74 68H52V78H34V26Z" fill="#FF3F6C"/>
+  <path d="M52 41V53H72C76 53 78 51 78 47C78 43 76 41 72 41H52Z" fill="#FFFFFF"/>
+  <path d="M104 26H121L132 46L143 26H160L139 60V78H125V60L104 26Z" fill="#FF905A"/>
+  <text x="174" y="42" fill="#282C3F" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="900">Pehnawa</text>
+  <text x="176" y="64" fill="#FF3F6C" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="900" letter-spacing="2.6">COLLECTION</text>
+  <text x="176" y="78" fill="#696E79" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="800" letter-spacing="2">DUNGAR</text>
+</svg>

@@ -1,5 +1,5 @@
 services:
-  - name: samira-collection
+  - name: pehnawaCollection
     type: web
     runtime: static
     branch: main
