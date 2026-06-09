@@ -24,7 +24,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "node scripts/ensure-dependencies.js && react-scripts build",
     "server": "node backend/server.js",
     "seed": "node backend/seed/seedData.js",
     "test": "react-scripts test",
